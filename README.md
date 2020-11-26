@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/arkadiusz-czerwinski/arkadiusz-czerwinski/blob/main/banner.png "Header")]
+[![Header](banner.png "Header")](google.com)
 My name is Arek and I am Data Scientist | MLDevOps working at AIUT. 
 
 ## What will you find here
