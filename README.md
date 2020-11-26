@@ -22,8 +22,8 @@ After process of reorganization of repositories is finished you will be able to 
 
 * [Ember framework](https://github.com/damiankucharski/Ember)
 
-* Multidimentional visualization tool 
+* Multidimentional visualization tool - Currently in progress
 
 
 
-### Due to reactivation of this github account all kaggle notebooks and repositories will be soon moved or linked here
+### Due to reactivation of this github some of the repositories will be changed to public and kaggle notebooks will be published
