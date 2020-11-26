@@ -1,4 +1,7 @@
 [![Header](banner.png "Header")](google.com)
+
+## About me 
+
 My name is Arek and I am Data Scientist | MLDevOps working at AIUT. 
 
 ## What will you find here
