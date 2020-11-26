@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/arkadiusz-czerwinski/arkadiusz-czerwinski/blob/main/banner.png "Header")](https://martinheinz.dev/)
-# To Whom It May Concern
+[![Header](https://raw.githubusercontent.com/arkadiusz-czerwinski/arkadiusz-czerwinski/blob/main/banner.png "Header")]
 My name is Arek and I am Data Scientist | MLDevOps working at AIUT. 
 
 ## What will you find here
