@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/arkadiusz-czerwinski/arkadiusz-czerwinski/blob/main/banner.png "Header")](https://martinheinz.dev/)
 # To Whom It May Concern
 My name is Arek and I am Data Scientist | MLDevOps working at AIUT. 
 
