@@ -17,9 +17,9 @@ After process of reorganization of repositories is finished you will be able to 
 
 
 
-## Featured projects
+## Featured projects in progress
 
-* Ember framework
+* [Ember framework](https://github.com/damiankucharski/Ember)
 
 * Multidimentional visualization tool 
 
