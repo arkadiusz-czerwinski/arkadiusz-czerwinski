@@ -24,6 +24,8 @@ After process of reorganization of repositories is finished you will be able to 
 
 * Multidimentional visualization tool - Currently in progress
 
+* [Hyperspectral-Analysis](https://github.com/CoInitialized/Hyperspectral-Analysis)
+
 
 
 ### Due to reactivation of this github some of the repositories will be changed to public and kaggle notebooks will be published
